@@ -1,0 +1,10 @@
+{
+    "123456":{
+        "name":"Gods of Egypt",
+        "description":"Egypt",
+        "imageUrl":"https://upload.wikimedia.org/wikipedia/en/2/2f/Gods_of_Egypt_poster.jpg",
+        "_ownerId":"35c62d76-8152-4626-8712-eeb96381bea8",
+        "_id":"123456",
+        "likes":["847ec027-f659-4086-8032-5173e2f9c93a"]
+    }
+}
